@@ -102,4 +102,9 @@ Por los alumnos:
     ```
     Por favor, ingrese un valor diferente y mayor a 0
     ```
+- Si el usario al momento de especificar el monto que desea retirar coloca un numero con mas de dos cifras decimales, se le mostrara el siguinte error:
+
+    ```
+    Por favor, ingrese un número con un máximo de 2 decimales
+    ```
 
