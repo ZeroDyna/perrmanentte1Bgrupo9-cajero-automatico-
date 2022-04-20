@@ -76,7 +76,7 @@ Por los alumnos:
 
 ## Posibles mensajes de error
 
-- Si el usuario ingresa un valor fuera de las opciones brindadas por el programa, se le mostrará uno de los siguientes mensajes:
+- Si el usuario ingresa un valor fuera de las opciones brindadas por el programa, se le mostrará el siguiente mensaje:
 
     ```
     ¡Valor ingresado inválido. Por favor ingrese un número que se encuentre dentro de las opciones brindadas!
@@ -85,7 +85,7 @@ Por los alumnos:
 - Si el usuario no cuenta con fondos en su cuenta e intenta realizar un retiro, se le mostrará el siguiente mensaje:
 
     ```
-    Lo sentimos, no puede realizar retiros si su saldo es de S/0
+    Lo sentimos, no puede realizar retiros si su saldo es de S/0.
     ```
 - Si el usuario intenta retirar una cantidad mayor a su saldo actual, se le mostrará un mensaje como el siguiente:
 
@@ -100,11 +100,11 @@ Por los alumnos:
 - Si el usario al momento de especificar la cantidad que desea retirar ingresa un número negativo o 0, se le mostrará el siguiente mensaje:
 
     ```
-    Por favor, ingrese un valor diferente y mayor a 0
+    Por favor, ingrese un valor diferente y mayor a 0.
     ```
-- Si el usario al momento de especificar el monto que desea retirar coloca un numero con mas de dos cifras decimales, se le mostrara el siguinte error:
+- Si el usario al momento de especificar el monto que desea retirar coloca un numero con mas de dos cifras decimales, se le mostrara el siguiente error:
 
     ```
-    Por favor, ingrese un número con un máximo de 2 decimales
+    Por favor, ingrese un número con un máximo de 2 decimales.
     ```
 
